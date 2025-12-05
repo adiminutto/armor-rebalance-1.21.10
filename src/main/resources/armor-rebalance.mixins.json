@@ -3,7 +3,8 @@
 	"package": "drewd.armorrebalance.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+        "ArmorMaterialsMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
